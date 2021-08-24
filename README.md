@@ -1,4 +1,4 @@
-## Sejá Bem Vindo!
+## Seja Bem Vindo!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
  <div>
   <a href="https://github.com/KrevyyG">
